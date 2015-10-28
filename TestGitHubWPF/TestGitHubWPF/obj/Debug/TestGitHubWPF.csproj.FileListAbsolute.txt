@@ -1,0 +1,12 @@
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\bin\Debug\TestGitHubWPF.exe
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\bin\Debug\TestGitHubWPF.pdb
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\TestGitHubWPF.csprojResolveAssemblyReference.cache
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\MainWindow.baml
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\MainWindow.g.cs
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\App.g.cs
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\TestGitHubWPF_MarkupCompile.cache
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\TestGitHubWPF.g.resources
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\TestGitHubWPF.Properties.Resources.resources
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\TestGitHubWPF.csproj.GenerateResource.Cache
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\TestGitHubWPF.exe
+F:\witkom\test_github\TestGitHubWPF\TestGitHubWPF\obj\Debug\TestGitHubWPF.pdb
